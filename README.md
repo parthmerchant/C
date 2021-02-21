@@ -1,5 +1,6 @@
-Hello! The C programming code I have uploaded was used to show how different scheduling algorithms process and sort
-information in an operating system. I did this semester long project for my Operating Systems course
+# Process Scheduling
+------------------------------
+Operating Systems final project: Simulating scheduling algorithms with randomly generated processes
 
 The five scheduling algorithms I used are 
 1. First Come First Serve (non-preemptive)
